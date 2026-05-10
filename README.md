@@ -1,11 +1,5 @@
 # Aktivitet 4 – Systemintegration, AAA & SSO
 
-This repository contains the practical implementation for **Activity 4** of the Network Technology course, focusing on AAA (Authentication, Authorization, Accounting) and Single Sign-On (SSO) in a simulated network environment.
-
-A full project report in Swedish is available in the repository as a PDF.
-
----
-
 ## Project Overview
 
 The goal of this project was to:
